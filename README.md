@@ -1,0 +1,2 @@
+# QuoteGeneratorBrowserExtension
+Generates Random Quotes
